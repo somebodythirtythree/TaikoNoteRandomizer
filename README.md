@@ -5,6 +5,8 @@ Simple program that randomizes notes in an osu!taiko map. No dependencies requir
 This project was inspired by [hamood enjoyer](https://osu.ppy.sh/users/20855973), who wrote a similar Python script and shared it via Discord.
 
 # Usage
+> [!WARNING]
+> This program can produce uncanny patterns. Use for experimental purposes only.
 
 1. Clone repository:
 ```bash
