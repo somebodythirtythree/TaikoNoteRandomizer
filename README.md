@@ -1,6 +1,6 @@
-# About this program
+# About
 
-This simple program reads a file containing osu!taiko note objects [(see this link for reference on hit object syntax)](https://osu.ppy.sh/wiki/en/Client/File_formats/osu_(file_format)#hit-objects), and then writes new notes that have randomized hitsounds. **Please note that this program does not directly read an .osu file nor does it create a new .osu file with the randomized notes. Improvements will be made in the future so it does.**
+Simple program that randomizes notes in an osu!taiko map. No dependencies required.
 
 This project was inspired by [hamood enjoyer](https://osu.ppy.sh/users/20855973), who wrote a similar Python script and shared it via Discord.
 
